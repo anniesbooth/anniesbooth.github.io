@@ -20,7 +20,11 @@ Recent News
 * New [paper](https://arxiv.org/pdf/2308.04420.pdf) on Bayesian optimization on arXiv
 * New [paper](https://arxiv.org/pdf/2308.04420.pdf) on contour location with deep Gaussian processes on arXiv
 * New [publication](https://arc.aiaa.org/doi/abs/10.2514/6.2024-0577) in the AIAA Scitech Conference Proceedings
-* I am now serving as Associate Editor for [Technometrics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=utch20)
-* At the [Fall Technical Conference](https://falltechnicalconference.org/2023-program/), I served on a panel on Artificial Intelligence with Simon Mak, Alyson Wilson, and David Banks
+* I presented at the 2024 [SIAM Conference on Uncertainty Quantification](https://www.siam.org/conferences/cm/conference/uq24) in Trieste, Italy
 
-![](/images/ftc.png)
+<center><img src="/images/italy.jpg" width="400"></center>
+
+* I am now serving as Associate Editor for [Technometrics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=utch20)
+* At the 2023 [Fall Technical Conference](https://falltechnicalconference.org/2023-program/), I served on a panel on Artificial Intelligence with Simon Mak, Alyson Wilson, and David Banks
+
+<center><img src="/images/ftc.png" width="700"></center>
