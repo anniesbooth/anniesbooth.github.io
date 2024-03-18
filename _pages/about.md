@@ -27,4 +27,4 @@ Recent News
 * I am now serving as Associate Editor for [Technometrics](https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=utch20)
 * At the 2023 [Fall Technical Conference](https://falltechnicalconference.org/2023-program/), I served on a panel on Artificial Intelligence with Simon Mak, Alyson Wilson, and David Banks
 
-<center><img src="/images/ftc.png" width="700"></center>
+<center><img src="/images/ftc.png" width="600"></center>
