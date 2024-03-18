@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have had the opportunity to teach the following courses (courses at Virginia Tech were taught during my graduate studies).
+I have had the opportunity to instruct the following courses (courses at Virginia Tech were taught during my graduate studies).
 
 NC State University
 ------
