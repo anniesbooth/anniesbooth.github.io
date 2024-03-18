@@ -11,14 +11,20 @@ I'm an Assistant Professor in the Department of Statistics at NC State.  My rese
 
 **_NOTE:_**  The best way to reach me is through email at annie_booth@ncsu.edu.
 
+
 Recent News
 ------
 
 * I recently married and changed my name from Annie Sauer to Annie Booth
+
 * New (paper)[https://arxiv.org/pdf/2308.04420.pdf] on Bayesian optimization on arXiv
+
 * New (paper)[https://arxiv.org/pdf/2308.04420.pdf] on contour location with deep Gaussian processes on arXiv
+
 * New (publication)[https://arc.aiaa.org/doi/abs/10.2514/6.2024-0577] in the AIAA Scitech Conference Proceedings
+
 * I am now serving as Associate Editor for (Technometrics)[https://www.tandfonline.com/action/journalInformation?show=editorialBoard&journalCode=utch20]
+
 * At the Fall Technical Conference, I served on a panel on Artificial Intelligence with Simon Mak, Alyson Wilson, and David Banks
 
 ![](/images/ftc.png)
