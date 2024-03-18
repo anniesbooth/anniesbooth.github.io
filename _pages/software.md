@@ -7,7 +7,7 @@ author_profile: true
 With all of my research, I strive to provide publicly available codes that are reproducible, easily accessible, and well-documented.  All of the code for my work on deep Gaussian processes is housed in my public git repository on [Bitbucket](https://bitbucket.org/gramacylab/deepgp-ex/).  I also maintain the following R packages.
 
 `deepgp`
-======
+------
 
 The `deepgp` package is an R package for Bayesian deep Gaussian processes using Markov Chain Monte Carlo.  It is available on [CRAN](https://CRAN.R-project.org/package=deepgp).
 
@@ -31,7 +31,7 @@ install.packages("deepgp")
 and check out the package vignette, available [here](https://cran.r-project.org/web/packages/deepgp/vignettes/deepgp.html).
 
 `runexp`
-======
+------
 
 The `runexp` package is an R package for estimating softball/baseball run expectancy using Markov Chains and Monte Carlo simulation. It is available on [CRAN](https://CRAN.R-project.org/package=runexp).  This package originated from my work as a Senior Analyst for the Virginia Tech Softball team for the 2019 and 2020 seasons.
 
