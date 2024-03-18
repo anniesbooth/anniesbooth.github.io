@@ -9,6 +9,8 @@ redirect_from:
 
 I'm an Assistant Professor in the Department of Statistics at NC State.  My research focuses on surrogate modeling of computer experiments including uncertainty quantification, active learning, Bayesian optimization, and reliability analysis.  My recent work has focused on deep Gaussian process surrogates; I maintain the open-source [deepgp](https://cran.r-project.org/package=deepgp) R-package on CRAN.   I earned my Ph.D. in Statistics at Virginia Tech, where I was advised by [Bobby Gramacy](https://bobby.johnson-gramacy.com/) and [Dave Higdon](https://www.stat.vt.edu/people/stat-faculty/higdon-david.html).
 
+Click [here](/files/BoothCV.pdf) to view my complete CV.
+
 > **_NOTE:_** The best way to reach me is through email at annie_booth@ncsu.edu.
 
 Recent News
