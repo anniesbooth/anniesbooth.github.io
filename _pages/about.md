@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an Assistant Professor in the Department of Statistics at NC State.  My research focuses on surrogate modeling of computer experiments including uncertainty quantification, active learning, Bayesian optimization, and reliability analysis.  My recent work has focused on deep Gaussian process surrogates; I maintain the open-source [deepgp](https://cran.r-project.org/package=deepgp) R-package on CRAN.   I earned my Ph.D. in Statistics at Virginia Tech, where I was advised by [Bobby Gramacy](https://bobby.johnson-gramacy.com/) and [Dave Higdon](https://www.stat.vt.edu/people/stat-faculty/higdon-david.html).
+I'm an Assistant Professor in the Department of Statistics at NC State.  My research focuses on surrogate modeling of computer experiments including uncertainty quantification, active learning, Bayesian optimization, and reliability analysis.  My recent focus has been on developing deep Gaussian processes as surrogate models; I maintain the open-source [deepgp](https://cran.r-project.org/package=deepgp) R-package on CRAN.   
+
+I earned my Ph.D. in Statistics at Virginia Tech in 2023, where I was advised by [Bobby Gramacy](https://bobby.johnson-gramacy.com/) and [Dave Higdon](https://www.stat.vt.edu/people/stat-faculty/higdon-david.html).
 
 Click [here](/files/BoothCV.pdf) to view my complete CV.
 
