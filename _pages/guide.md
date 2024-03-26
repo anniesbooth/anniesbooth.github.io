@@ -6,9 +6,10 @@ author_profile: true
 
 *This page is a work in progress and is under revision.*
 
-* [Expectations](booth-lab-expectations)
-* [Git - Getting Started](getting-started-with-git)
-* [Git - Best Practices](best-practices-for-git)
+Table of Contents:
+* Booth Lab Expectations
+* Getting Started with Git
+* Best Practices for Git
 
 Booth Lab Expectations
 ------
