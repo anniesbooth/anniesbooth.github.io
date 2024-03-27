@@ -18,7 +18,7 @@ Click [here](/files/BoothCV.pdf) to view my complete CV.
 Recent News
 ------
 
-* In 2023, I married and changed my name from Annie Sauer to Annie Booth
+* In 2023, I married and changed my name from Annie Sauer to Annie (Sauer) Booth
 * New [paper](https://arxiv.org/pdf/2308.04420.pdf) on Bayesian optimization on arXiv
 * New [paper](https://arxiv.org/pdf/2308.04420.pdf) on contour location with deep Gaussian processes on arXiv
 * New [publication](https://arc.aiaa.org/doi/abs/10.2514/6.2024-0577) in the AIAA Scitech Conference Proceedings
