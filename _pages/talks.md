@@ -9,6 +9,7 @@ Here are some of the places I have visited.
 
 Location				|	Date				|	Event
 -----					|	--------			|	--------------
+Venice, Italy			|	July 2024			|	ISBA World Meeting (Savage Award Finalist)
 Trieste, Italy			|	February 2024		|	SIAM Conference on Uncertainty Quantification
 Orlando, FL 			|	January 2024		|	AIAA Scitech Forum
 Raleigh, NC				|	October 2023		|	Fall Technical Conference
