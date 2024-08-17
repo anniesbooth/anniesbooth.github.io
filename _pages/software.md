@@ -15,8 +15,9 @@ The crux of the package is the use of elliptical slice sampling [(Murray et al.,
 
 * Fully-Bayesian inference for one-layer GPs, two-layer DGPs, and three-layer DGPs
 	+ MCMC sampling, trimming burn-in, and thinning
-	+ posterior predictions with means and either point-wise variances or full predictive covariances (with `SNOW` parallelization)
-	+ squared exponential or Matern kernels
+	+ Posterior predictions with means and either point-wise variances or full predictive covariances (with `SNOW` parallelization)
+	+ Squared exponential or Matern kernels
+	+ Optional monotonic warpings
 	+ S3 class objects with built-in plot options
 * Vecchia approximation for faster computation with large data sizes (with `OpenMP` parallelization)
 * Active learning through various acquisition criteria (also termed "sequential design")
