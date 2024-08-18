@@ -20,7 +20,7 @@ The crux of the package is the use of elliptical slice sampling [(Murray et al.,
 	+ Optional monotonic warpings
 	+ S3 class objects with built-in plot options
 * Vecchia approximation for faster computation with large data sizes (with `OpenMP` parallelization)
-* Active learning through various acquisition criteria (also termed "sequential design")
+* Active learning/sequential design through various acquisition criteria
 	+ Integrated mean squared error (IMSE) and active learning Cohn (ALC) for variance reduction
 	+ Expected improvement for Bayesian optimization 
 	+ Entropy for contour location 

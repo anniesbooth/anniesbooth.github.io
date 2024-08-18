@@ -37,7 +37,7 @@ Reproducible code available on [Bitbucket](https://bitbucket.org/gramacylab/deep
 Reproducible code available on [Bitbucket](https://bitbucket.org/gramacylab/deepgp-ex/)
 
 
-### [Deep Gaussian process surrogates for computer experimentss](http://hdl.handle.net/10919/114845)
+### [Deep Gaussian process surrogates for computer experiments](http://hdl.handle.net/10919/114845)
 
 **Annie Sauer** (2023)  
 *Ph.D. Thesis*, Virginia Polytechnic Institite and State University  

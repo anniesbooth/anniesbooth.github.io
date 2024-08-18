@@ -4,15 +4,15 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have had the opportunity to instruct the following courses (courses at Virginia Tech were taught during my graduate studies).
+I have had the opportunity to instruct the following courses.
 
 NC State University
 ------
-### [ST 370: Probability and Statistics for Engineers](/files/ST370_FALL23.pdf)
+### [ST 370: Probability and Statistics for Engineers](/files/ST370_Syllabus.pdf)
 
 A calculus-based introduction to probability and statistics, with a focus on engineering applications
 
-* Fall 2024 (upcoming)
+* Fall 2024
 * Fall 2023
 
 Virginia Tech
