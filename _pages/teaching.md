@@ -8,7 +8,7 @@ I have had the opportunity to instruct the following courses.
 
 NC State University
 ------
-### [ST 370: Probability and Statistics for Engineers](/files/ST370_Syllabus.pdf)
+### ST 370: Probability and Statistics for Engineers
 
 A calculus-based introduction to probability and statistics, with a focus on engineering applications
 
