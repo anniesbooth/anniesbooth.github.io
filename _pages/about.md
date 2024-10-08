@@ -18,6 +18,7 @@ Click [here](/files/BoothCV.pdf) to view my complete CV.
 News and Highlights
 ------
 
+* New [paper](https://arxiv.org/pdf/2410.04496) on failure probability estimation with Gaussian process surrogates on arXiv
 * I'm starting work on a new project funded by the NSF to study digital twins of rotating detonation combustors for clean energy production, with [James Braun](https://mae.ncsu.edu/people/james-braun/)
 * New [paper](https://arxiv.org/pdf/2308.04420.pdf) on contour location with deep Gaussian processes just accepted to the *Annals of Applied Statistics*
 * New [paper](https://arxiv.org/pdf/2408.01540) on monotonic warpings for deep Gaussian processes on arXiv
