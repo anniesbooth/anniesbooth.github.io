@@ -11,8 +11,6 @@ I'm an Assistant Professor in the Department of Statistics at NC State.  I speci
 
 I earned my Ph.D. in Statistics at Virginia Tech in 2023, where I was advised by [Bobby Gramacy](https://bobby.johnson-gramacy.com/) and [Dave Higdon](https://www.stat.vt.edu/people/stat-faculty/higdon-david.html).  My Ph.D. dissertation was recently selected as a finalist for the [2023 Savage Award](https://bayesian.org/project/savage-award/).
 
-Click [here](/files/BoothCV.pdf) to view my complete CV.
-
 > **_NOTE:_** I previously published under my maiden name, Annie Sauer.
 
 News and Highlights
