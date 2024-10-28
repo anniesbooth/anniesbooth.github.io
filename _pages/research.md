@@ -9,6 +9,12 @@ A full list of my publications is available on my [CV](/files/BoothCV.pdf) and o
 Selected Publications
 ------
 
+### [Hybrid Monte Carlo for failure probability estimation with Gaussian process surrogates](https://arxiv.org/pdf/2410.04496)
+
+**Annie S. Booth** and S. Ashwin Renganathan (2024)
+*In Review* (arXiv:2410.04496)
+Reproducible code available on [Bitbucket](https://bitbucket.org/boothlab/failprob/)
+
 ### [Monotonic warpings for additive and deep Gaussian processes](https://arxiv.org/pdf/2408.01540)
 
 Steven Barnett, Lauren J. Beesley, **Annie S. Booth**, Robert B. Gramacy, and Dave Osthus (2024)  
