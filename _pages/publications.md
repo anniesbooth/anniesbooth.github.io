@@ -27,6 +27,10 @@ with Ashwin Renganathan and Robert B. Gramacy. *Annals of Applied Statistics.* p
 ### [Actively learning deep Gaussian process models for failure contour and reliability estimation](https://arc.aiaa.org/doi/abs/10.2514/6.2024-0577)
 with Ashwin Renganathan and Robert B. Gramacy. In *AIAA Scitech 2024 Forum.*
 
+### Bayesian deep process convolutions: An application in cosmology
+
+with Kelly Moran, Richard Payne, Earl Lawrence, David Higdon, Stephen Walsh, Juliana Kwan, Amber Day, Salman Habib, and Katrin Heitmann.  preprint on [arXiv:2411.14747](https://arxiv.org/pdf/2411.14747)
+
 2023
 ------
 
@@ -34,7 +38,7 @@ with Ashwin Renganathan and Robert B. Gramacy. In *AIAA Scitech 2024 Forum.*
 *Ph.D. Thesis,* Virginia Polytechnic Institute and State University  
 
 ### [Vecchia-approximated deep Gaussian processes for computer experiments](https://www.tandfonline.com/doi/full/10.1080/10618600.2022.2129662)
-with Andrew Cooper and Robert B. Gramacy. *Journal of Computational and Graphical Statistics.* [arXiv:2204.02904](https://arxiv.org/pdf/2204.02904.pdf)
+with Andrew Cooper and Robert B. Gramacy. *Journal of Computational and Graphical Statistics.* [arXiv:2204.02904](https://arxiv.org/pdf/2204.02904)
 
 2022
 ------
@@ -55,7 +59,7 @@ with Bret Stanford, Kevin Jacobson, and James Warner. In *AIAA Scitech 2022 Foru
 ------
 
 ### [Active learning for deep Gaussian process surrogates](https://www.tandfonline.com/doi/full/10.1080/00401706.2021.2008505)
-with Robert B. Gramacy and David Higdon. *Technometrics.* [arXiv:2012.08015](https://arxiv.org/pdf/2012.08015v2.pdf)
+with Robert B. Gramacy and David Higdon. *Technometrics.* [arXiv:2012.08015](https://arxiv.org/pdf/2012.08015v2)
 
 
 
