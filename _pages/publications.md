@@ -6,6 +6,12 @@ author_profile: true
 
 This page contains a complete list of my publications with relevant links.  You may also refer to my [CV](/files/BoothCV.pdf) and my [Google scholar page](https://scholar.google.com/citations?user=yL2Ik1UAAAAJ&hl=en&oi=ao). 
 
+2025
+------
+
+### Modernizing full posterior inference for surrogate modeling of categorical-output simulation experiments
+with Andrew Cooper and Robert B. Gramacy. preprint on [arXiv:2501.14946](https://arxiv.org/pdf/2501.14946)
+
 2024
 ------
 

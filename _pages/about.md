@@ -15,6 +15,9 @@ News and Highlights
 ------
 
 * Starting in 2025, I am returning to the Virginia Tech Department of Statistics after 1.5 years at NC State.  Go Hokies!
+
+<center><img src="/images/hutcheson.jpg" width="400"></center>
+
 * New collaboration with [Kevin Quinlan](https://people.llnl.gov/quinlan5) and [Laura Wendelberger](https://www.linkedin.com/in/laura-wendelberger-027016b0) to study dimension reduction with deep Gaussian processes, funded by Lawrence Livermore National Lab
 * New [paper](https://arxiv.org/pdf/2410.04496) on failure probability estimation with Gaussian process surrogates on arXiv
 * I'm starting work on a new project funded by the NSF to study digital twins of rotating detonation combustors for clean energy production, with [James Braun](https://mae.ncsu.edu/people/james-braun/)
