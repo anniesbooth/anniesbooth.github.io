@@ -21,6 +21,7 @@ Virginia Tech
 
 A calculus-based introduction to probability and statistics, with a focus on electrical engineering applications
 
+* Spring 2025
 * Summer 2023
 
 
