@@ -22,7 +22,7 @@ with Ashwin Renganathan. preprint on [arXiv:2410.04496](https://arxiv.org/pdf/24
 with Nathan Wycoff, John W. Smith, and Robert B. Gramacy. preprint on [arXiv:2402.04922](https://arxiv.org/pdf/2402.04922)
 
 ### Monotonic warpings for additive and deep Gaussian processes
-with Steven Barnett, Lauren J. Beesley, Robert B. Gramacy, and Dave Osthus. preprint on [arXiv:2408.01540](https://arxiv.org/pdf/2408.01540)
+with Steven Barnett, Lauren J. Beesley, Robert B. Gramacy, and Dave Osthus. *Statistics and Computing, to appear.* preprint on [arXiv:2408.01540](https://arxiv.org/pdf/2408.01540)
 
 ### Nonstationary Gaussian process surrogates
 with Andrew Cooper and Robert B. Gramacy. *Handbook of Uncertainty Quantification, to appear.* preprint on [arXiv:2305.19242](https://arxiv.org/pdf/2305.19242)
