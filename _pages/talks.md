@@ -9,6 +9,7 @@ Here are some of the places I have visited.
 
 Location				|	Date				|	Event
 -----					|	--------			|	--------------
+Chicago, IL             |   February 2025       |   IMSI Workshop on UQ for Digital Twins
 Greensboro, NC          |   October 2024        |   Advances in Interdisciplinary Statistics and Combinatorics
 Portland, OR            |   August 2024         |   Joint Statistical Meetings
 Venice, Italy			|	July 2024			|	ISBA World Meeting (Savage Award Finalist)
