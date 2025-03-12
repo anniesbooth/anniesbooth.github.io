@@ -18,9 +18,10 @@ News and Highlights
 
 <center><img src="/images/hutcheson.jpg" width="400"></center>
 
+* New [paper](https://arxiv.org/pdf/2410.04496) on surrogate design for failure probability estimation on arXiv
 * New [paper](https://arxiv.org/pdf/2408.01540) on monotonic warpings for deep Gaussian processes just accepted to *Statistics and Computing*
 * New collaboration with [Kevin Quinlan](https://people.llnl.gov/quinlan5) and [Laura Wendelberger](https://www.linkedin.com/in/laura-wendelberger-027016b0) to study dimension reduction with deep Gaussian processes, funded by Lawrence Livermore National Lab
-* New [paper](https://arxiv.org/pdf/2410.04496) on failure probability estimation with Gaussian process surrogates on arXiv
+
 * I'm starting work on a new project funded by the NSF to study digital twins of rotating detonation combustors for clean energy production, with [James Braun](https://mae.ncsu.edu/people/james-braun/)
 * New [paper](https://arxiv.org/pdf/2308.04420.pdf) on contour location with deep Gaussian processes accepted to the *Annals of Applied Statistics*
 * New [paper](https://arxiv.org/pdf/2402.04922.pdf) on Bayesian optimization with Voronoi candidates on arXiv
