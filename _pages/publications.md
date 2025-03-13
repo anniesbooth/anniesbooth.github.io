@@ -15,14 +15,14 @@ with Ashwin Renganathan. preprint on [arXiv:2410.04496](https://arxiv.org/pdf/24
 ### Modernizing full posterior inference for surrogate modeling of categorical-output simulation experiments
 with Andrew Cooper and Robert B. Gramacy. preprint on [arXiv:2501.14946](https://arxiv.org/pdf/2501.14946)
 
+### [Monotonic warpings for additive and deep Gaussian processes](https://link.springer.com/article/10.1007/s11222-025-10598-7)
+with Steven Barnett, Lauren J. Beesley, Robert B. Gramacy, and Dave Osthus. *Statistics and Computing, to appear.* preprint on [arXiv:2408.01540](https://arxiv.org/pdf/2408.01540)
+
 2024
 ------
 
 ### Voronoi candidates for Bayesian optimization
 with Nathan Wycoff, John W. Smith, and Robert B. Gramacy. preprint on [arXiv:2402.04922](https://arxiv.org/pdf/2402.04922)
-
-### Monotonic warpings for additive and deep Gaussian processes
-with Steven Barnett, Lauren J. Beesley, Robert B. Gramacy, and Dave Osthus. *Statistics and Computing, to appear.* preprint on [arXiv:2408.01540](https://arxiv.org/pdf/2408.01540)
 
 ### Nonstationary Gaussian process surrogates
 with Andrew Cooper and Robert B. Gramacy. *Handbook of Uncertainty Quantification, to appear.* preprint on [arXiv:2305.19242](https://arxiv.org/pdf/2305.19242)
@@ -34,7 +34,6 @@ with Ashwin Renganathan and Robert B. Gramacy. *Annals of Applied Statistics.* p
 with Ashwin Renganathan and Robert B. Gramacy. In *AIAA Scitech 2024 Forum.*
 
 ### Bayesian deep process convolutions: An application in cosmology
-
 with Kelly Moran, Richard Payne, Earl Lawrence, David Higdon, Stephen Walsh, Juliana Kwan, Amber Day, Salman Habib, and Katrin Heitmann.  preprint on [arXiv:2411.14747](https://arxiv.org/pdf/2411.14747)
 
 2023
