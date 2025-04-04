@@ -18,6 +18,9 @@ with Andrew Cooper and Robert B. Gramacy. preprint on [arXiv:2501.14946](https:/
 ### [Monotonic warpings for additive and deep Gaussian processes](https://link.springer.com/article/10.1007/s11222-025-10598-7)
 with Steven Barnett, Lauren J. Beesley, Robert B. Gramacy, and Dave Osthus. *Statistics and Computing, to appear.* preprint on [arXiv:2408.01540](https://arxiv.org/pdf/2408.01540)
 
+### [Contour location for reliability in airfoil simulation experiments using deep Gaussian processes](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-1/Contour-location-for-reliability-in-airfoil-simulation-experiments-using-deep/10.1214/24-AOAS1951.full) [(PDF)](files/AOAS_Booth_et_al_2025.pdf)
+with Ashwin Renganathan and Robert B. Gramacy. *Annals of Applied Statistics.* [arXiv:2308.04420](https://arxiv.org/pdf/2308.04420)  
+
 2024
 ------
 
@@ -26,9 +29,6 @@ with Nathan Wycoff, John W. Smith, and Robert B. Gramacy. preprint on [arXiv:240
 
 ### Nonstationary Gaussian process surrogates
 with Andrew Cooper and Robert B. Gramacy. *Handbook of Uncertainty Quantification, to appear.* preprint on [arXiv:2305.19242](https://arxiv.org/pdf/2305.19242)
-
-### Contour location for reliability in airfoil simulation experiments using deep Gaussian processes
-with Ashwin Renganathan and Robert B. Gramacy. *Annals of Applied Statistics.* preprint on [arXiv:2308.04420](https://arxiv.org/pdf/2308.04420)  
 
 ### [Actively learning deep Gaussian process models for failure contour and reliability estimation](https://arc.aiaa.org/doi/abs/10.2514/6.2024-0577)
 with Ashwin Renganathan and Robert B. Gramacy. In *AIAA Scitech 2024 Forum.*
