@@ -1,16 +1,17 @@
 # main links links
 main:
+
   - title: "Publications"
     url: /publications/
-
-  - title: "Software"
-    url: /software/
 
   - title: "Teaching"
     url: /teaching/
 
   - title: "Talks"
     url: /talks/
+
+  - title: "Tips and Tricks"
+    url: /tips/
 
   - title: "CV"
     url: /files/BoothCV.pdf
