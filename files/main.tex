@@ -1,0 +1,58 @@
+\documentclass[11pt]{article}
+\usepackage{hyperref}
+\usepackage{amsmath, amsfonts, amssymb, mathrsfs}
+\usepackage{dcolumn}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{filemod}
+\usepackage{natbib}
+\usepackage[ruled, vlined]{algorithm2e}
+\usepackage{floatrow}
+\usepackage{setspace}
+\usepackage{verbatim}
+\usepackage{graphicx}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue, 
+    urlcolor=black,
+    citecolor=blue, 
+    }
+
+\oddsidemargin=0.25in
+\evensidemargin=0.25in
+\textwidth=7in
+\textheight=8.75in
+\topmargin=-.5in
+\addtolength{\oddsidemargin}{-.5in}
+\addtolength{\evensidemargin}{-.5in}
+\footskip=0.5in
+
+\title{\vspace{-1cm} Title}
+\author{Author 1 \thanks{Corresponding author: Department of Statistics, 
+	Virginia Tech, {\tt email@email.edi}} 
+	\and Author 2 \thanks{Department of Statistics, NC State University} 
+	\and Author 3 \footnotemark[2]}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract} 
+Insert abstract.
+\end{abstract}
+
+\noindent \textbf{Keywords:} insert keywords
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Introduction}\label{sec:intro}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+This is an example of a parenthetical reference \citep{sauer2023active}.
+\citet{sauer2023active} is an example of an in-text reference.
+
+\bibliographystyle{jasa}
+\bibliography{main}
+
+\end{document}

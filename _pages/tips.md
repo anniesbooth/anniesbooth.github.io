@@ -10,3 +10,5 @@ The posts below are intended as a resource for my current and future Ph.D. stude
 
 ### [Getting Started with Git](/tips/git/)
 
+### [The Logistics of Starting a Paper](/tips/paper/)
+
