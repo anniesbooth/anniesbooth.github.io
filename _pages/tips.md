@@ -12,3 +12,4 @@ The posts below are intended as a resource for my current and future Ph.D. stude
 
 ### [The Logistics of Starting a Paper](/tips/paper/)
 
+### [Installing R Packages from Source](/tips/packages/)
