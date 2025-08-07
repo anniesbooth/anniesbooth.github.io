@@ -9,6 +9,7 @@ Here are some of the places I have visited.
 
 Location				|	Date				|	Event
 -----					|	--------			|	--------------
+Nashville, TN 			|   August 2025         |   Joint Statistical Meetings
 New York, NY			|	June 2025			|	Spring Research Conference
 Chicago, IL 			|	May 2025			|   IMSI Workshop on UQ and ML for Complex Physical Systems
 Chicago, IL             |   February 2025       |   IMSI Workshop on UQ for Digital Twins
