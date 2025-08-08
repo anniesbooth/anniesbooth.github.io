@@ -17,12 +17,12 @@ with Stephen A. Walsh, David Higdon, Jared Clark, Kelly R. Moran, and Katrin Hei
 with Ashwin Renganathan. [arXiv:2410.04496](https://arxiv.org/pdf/2410.04496)
 
 ### Modernizing full posterior inference for surrogate modeling of categorical-output simulation experiments
-with Andrew Cooper and Robert B. Gramacy. [arXiv:2501.14946](https://arxiv.org/pdf/2501.14946)
+with Andrew Cooper and Robert B. Gramacy. *Quality Engineering, just accepted.* [arXiv:2501.14946](https://arxiv.org/pdf/2501.14946)
 
 ### Monotonic warpings for additive and deep Gaussian processes
 with Steven Barnett, Lauren J. Beesley, Robert B. Gramacy, and Dave Osthus. [*Statistics and Computing.*]((https://link.springer.com/article/10.1007/s11222-025-10598-7)) [arXiv:2408.01540](https://arxiv.org/pdf/2408.01540)
 
-### Contour location for reliability in airfoil simulation experiments using deep Gaussian processes [(PDF)](files/AOAS_Booth_et_al_2025.pdf)
+### Contour location for reliability in airfoil simulation experiments using deep Gaussian processes 
 with Ashwin Renganathan and Robert B. Gramacy. [*Annals of Applied Statistics.*]((https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-1/Contour-location-for-reliability-in-airfoil-simulation-experiments-using-deep/10.1214/24-AOAS1951.full)) [arXiv:2308.04420](https://arxiv.org/pdf/2308.04420)  
 
 2024
