@@ -14,7 +14,7 @@ This page contains a complete list of my publications with relevant links.  You 
 with Stephen A. Walsh, David Higdon, Jared Clark, Kelly R. Moran, and Katrin Heitmann. [arXiv:2507.18683](https://arxiv.org/pdf/2507.18683)
 
 ### Two-stage design for failure probability estimation with Gaussian process surrogates
-with Ashwin Renganathan. [arXiv:2410.04496](https://arxiv.org/pdf/2410.04496)
+with Ashwin Renganathan. *Journal of Quality Technology, just accepted.* [arXiv:2410.04496](https://arxiv.org/pdf/2410.04496)
 
 ### Modernizing full posterior inference for surrogate modeling of categorical-output simulation experiments
 with Andrew Cooper and Robert B. Gramacy. *Quality Engineering, just accepted.* [arXiv:2501.14946](https://arxiv.org/pdf/2501.14946)
