@@ -14,7 +14,7 @@ I am an Assistant Professor in the Department of Statistics at Virginia Tech.  P
 News and Highlights
 ------
 
-* I will be leading a [full-day short course](https://falltechnicalconference.org/2025-short-courses/) on "High Quality Coding for High Quality Analytics" at this year's Fall Technical Conference 
+* I recently attended the [Fall Technical Conference](https://falltechnicalconference.org/) in Houston, TX to present my work on "Deep Gaussian Processes for Failure Probability Estimation in Complex Systems"
 * Starting in 2025, I am returning to the Virginia Tech Department of Statistics after 1.5 years at NC State.  Go Hokies!
 
 <center><img src="/images/hutcheson.jpg" width="400"></center>

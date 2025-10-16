@@ -8,6 +8,14 @@ I have had the opportunity to instruct the following courses.
 
 Virginia Tech
 ------
+
+### STAT 5014: Introduction to Statistical Programming Packages
+
+An introduction to computing and statistical programming, geared towards first-year graduate students in statistics
+
+* Fall 2025
+
+
 ### STAT 4714: Probability and Statistics for Electrical Engineers
 
 A calculus-based introduction to probability and statistics, with a focus on electrical engineering applications
