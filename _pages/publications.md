@@ -10,6 +10,9 @@ This page contains a complete list of my publications with relevant links.  You 
 2025
 ------
 
+### Revisiting penalized likelihood estimation for Gaussian processes
+with Ayumi Mutoh and Jonathan Stallrich [arXiv:2511.18111](https://arxiv.org/pdf/2511.18111)
+
 ### Bayesian deep Gaussian processes for correlated functional data: A case study in cosmological matter power spectra
 with Stephen A. Walsh, David Higdon, Jared Clark, Kelly R. Moran, and Katrin Heitmann. [arXiv:2507.18683](https://arxiv.org/pdf/2507.18683)
 
