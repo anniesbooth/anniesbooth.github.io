@@ -6,12 +6,11 @@ author_profile: true
 
 This page contains a complete list of my publications with relevant links.  You may also refer to my [CV](/files/BoothCV.pdf) and my [Google scholar page](https://scholar.google.com/citations?user=yL2Ik1UAAAAJ&hl=en&oi=ao). 
 
-
 2025
 ------
 
 ### Revisiting penalized likelihood estimation for Gaussian processes
-with Ayumi Mutoh and Jonathan Stallrich [arXiv:2511.18111](https://arxiv.org/pdf/2511.18111)
+with Ayumi Mutoh and Jonathan Stallrich. [arXiv:2511.18111](https://arxiv.org/pdf/2511.18111)
 
 ### Bayesian deep Gaussian processes for correlated functional data: A case study in cosmological matter power spectra
 with Stephen A. Walsh, David Higdon, Jared Clark, Kelly R. Moran, and Katrin Heitmann. [arXiv:2507.18683](https://arxiv.org/pdf/2507.18683)
