@@ -31,7 +31,7 @@ with Ashwin Renganathan and Robert B. Gramacy. [*Annals of Applied Statistics.*]
 ------
 
 ### Voronoi candidates for Bayesian optimization
-with Nathan Wycoff, John W. Smith, and Robert B. Gramacy. [arXiv:2402.04922](https://arxiv.org/pdf/2402.04922)
+with Nathan Wycoff, John W. Smith, and Robert B. Gramacy. [*Journal of Global Optimization, to appear.* arXiv:2402.04922](https://arxiv.org/pdf/2402.04922)
 
 ### Nonstationary Gaussian process surrogates
 with Andrew Cooper and Robert B. Gramacy. *Handbook of Uncertainty Quantification, to appear.* [arXiv:2305.19242](https://arxiv.org/pdf/2305.19242)

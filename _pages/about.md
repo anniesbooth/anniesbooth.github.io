@@ -15,17 +15,9 @@ News and Highlights
 ------
 
 * I recently attended the [Fall Technical Conference](https://falltechnicalconference.org/) in Houston, TX to present my work on "Deep Gaussian Processes for Failure Probability Estimation in Complex Systems"
-* Starting in 2025, I am returning to the Virginia Tech Department of Statistics after 1.5 years at NC State.  Go Hokies!
-
-<center><img src="/images/hutcheson.jpg" width="400"></center>
-
-* New [paper](https://arxiv.org/pdf/2410.04496) on surrogate design for failure probability estimation accepted to *Journal of Quality Technology*
-* New [paper](https://arxiv.org/pdf/2501.14946) on classification with Bayesian (deep) GPs accepted to *Quality Engineering*
+* [Paper](https://arxiv.org/pdf/2402.04922.pdf) on Bayesian optimization with Voronoi candidates was just accepted to *Journal of Global Optimization*
+* [Paper](https://arxiv.org/pdf/2410.04496) on surrogate design for failure probability estimation accepted to *Journal of Quality Technology*
+* [Paper](https://arxiv.org/pdf/2501.14946) on classification with Bayesian (deep) GPs accepted to *Quality Engineering*
 * New [paper](https://arxiv.org/pdf/2507.18683) on Bayesian deep Gaussian processes for cosmological matter power spectra on arXiv
-* New [paper](https://arxiv.org/pdf/2408.01540) on monotonic warpings for deep Gaussian processes just accepted to *Statistics and Computing*
-* New [paper](https://arxiv.org/pdf/2308.04420.pdf) on contour location with deep Gaussian processes published in the *Annals of Applied Statistics*
-* New collaboration with [Kevin Quinlan](https://people.llnl.gov/quinlan5) and [Laura Wendelberger](https://www.linkedin.com/in/laura-wendelberger-027016b0) to study dimension reduction with deep Gaussian processes, funded by Lawrence Livermore National Lab
-* I'm starting work on a new project funded by the NSF to study digital twins of rotating detonation combustors for clean energy production, with [James Braun](https://mae.ncsu.edu/people/james-braun/)
-* New [paper](https://arxiv.org/pdf/2402.04922.pdf) on Bayesian optimization with Voronoi candidates on arXiv
 
 > To keep this page short and sweet, old news is archived [here](/news/).
