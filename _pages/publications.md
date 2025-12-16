@@ -9,6 +9,9 @@ This page contains a complete list of my publications with relevant links.  You 
 2025
 ------
 
+### Actively learning joint contours of multiple computer experiment
+with Shih-Ni Prim, Kevin R. Quinlan, Paul Hawkins, and Jagadeesh Movva. [arXiv:2512.13530](https://arxiv.org/pdf/2512.13530)
+
 ### Revisiting penalized likelihood estimation for Gaussian processes
 with Ayumi Mutoh and Jonathan Stallrich. [arXiv:2511.18111](https://arxiv.org/pdf/2511.18111)
 
