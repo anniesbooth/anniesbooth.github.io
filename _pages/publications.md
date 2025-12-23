@@ -9,6 +9,9 @@ This page contains a complete list of my publications with relevant links.  You 
 2025
 ------
 
+### Deep Gaussian processes with gradients
+[arXiv:2512.19066](https://arxiv.org/pdf/2512.18066)
+
 ### Actively learning joint contours of multiple computer experiment
 with Shih-Ni Prim, Kevin R. Quinlan, Paul Hawkins, and Jagadeesh Movva. [arXiv:2512.13530](https://arxiv.org/pdf/2512.13530)
 
