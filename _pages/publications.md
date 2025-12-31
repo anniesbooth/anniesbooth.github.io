@@ -9,6 +9,9 @@ This page contains a complete list of my publications with relevant links.  You 
 2025
 ------
 
+### Profile Bayesian optimization for expensive computer experiments
+with Courtney Kyger, James Fernandez, John A. Grunenwald, and James Braun. [arxiv:2512.23581](https://arxiv.org/pdf/2512.23581)
+
 ### Deep Gaussian processes with gradients
 [arXiv:2512.19066](https://arxiv.org/pdf/2512.18066)
 

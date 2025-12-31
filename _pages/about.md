@@ -14,6 +14,7 @@ I am an Assistant Professor in the Department of Statistics at Virginia Tech.  P
 News and Highlights
 ------
 
+* New [paper](https://arxiv.org/pdf/2512.23581) on profile Bayesian optimization now on arXiv
 * New [paper](https://arxiv.org/pdf/2512.18066) on deep Gaussian processes with gradients now on arXiv
 * New [paper](https://arxiv.org/pdf/2512.13530) on identifying joint contours of multiple computer experiments now on arXiv
 * I recently attended the [Fall Technical Conference](https://falltechnicalconference.org/) in Houston, TX to present my work on "Deep Gaussian Processes for Failure Probability Estimation in Complex Systems"
