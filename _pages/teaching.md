@@ -4,10 +4,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have had the opportunity to instruct the following courses.
+I have had the opportunity to instruct the following courses.  I am happy to share course syllabi upon request.
 
 Virginia Tech
 ------
+
+### STAT 6554: Advanced Statistical Computing
+
+Ph.D. level statistics course covering advanced computing topics in R
+
+* Spring 2026
+
 
 ### STAT 5014: Introduction to Statistical Programming Packages
 
@@ -34,6 +41,7 @@ An introductory statistics course for students in the biological sciences
 
 NC State University
 ------
+
 ### ST 370: Probability and Statistics for Engineers
 
 A calculus-based introduction to probability and statistics, with a focus on engineering applications

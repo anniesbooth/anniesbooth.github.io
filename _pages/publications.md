@@ -6,6 +6,12 @@ author_profile: true
 
 This page contains a complete list of my publications with relevant links.  You may also refer to my [CV](/files/BoothCV.pdf) and my [Google scholar page](https://scholar.google.com/citations?user=yL2Ik1UAAAAJ&hl=en&oi=ao). 
 
+2026
+------
+
+### Surrogate-guided adaptive importance sampling for failure probability estimation
+with Ashwin Renganathan. [arXiv:2603.20959](https://arxiv.org/pdf/2603.20959)
+
 2025
 ------
 
@@ -15,20 +21,20 @@ with Courtney Kyger, James Fernandez, John A. Grunenwald, and James Braun. [arxi
 ### Deep Gaussian processes with gradients
 [arXiv:2512.19066](https://arxiv.org/pdf/2512.18066)
 
-### Actively learning joint contours of multiple computer experiment
+### Actively learning joint contours of multiple computer experiments
 with Shih-Ni Prim, Kevin R. Quinlan, Paul Hawkins, and Jagadeesh Movva. [arXiv:2512.13530](https://arxiv.org/pdf/2512.13530)
 
 ### Revisiting penalized likelihood estimation for Gaussian processes
 with Ayumi Mutoh and Jonathan Stallrich. [arXiv:2511.18111](https://arxiv.org/pdf/2511.18111)
 
 ### Bayesian deep Gaussian processes for correlated functional data: A case study in cosmological matter power spectra
-with Stephen A. Walsh, David Higdon, Jared Clark, Kelly R. Moran, and Katrin Heitmann. [arXiv:2507.18683](https://arxiv.org/pdf/2507.18683)
+with Stephen A. Walsh, David Higdon, Jared Clark, Kelly R. Moran, and Katrin Heitmann. [*Data Science in Science.*](https://www.tandfonline.com/doi/full/10.1080/26941899.2026.2685315) [arXiv:2507.18683](https://arxiv.org/pdf/2507.18683)
 
 ### Two-stage design for failure probability estimation with Gaussian process surrogates
-with Ashwin Renganathan. *Journal of Quality Technology, just accepted.* [arXiv:2410.04496](https://arxiv.org/pdf/2410.04496)
+with Ashwin Renganathan. [*Journal of Quality Technology.*](https://www.tandfonline.com/doi/full/10.1080/00224065.2025.2562868) [arXiv:2410.04496](https://arxiv.org/pdf/2410.04496)
 
 ### Modernizing full posterior inference for surrogate modeling of categorical-output simulation experiments
-with Andrew Cooper and Robert B. Gramacy. *Quality Engineering, just accepted.* [arXiv:2501.14946](https://arxiv.org/pdf/2501.14946)
+with Andrew Cooper and Robert B. Gramacy. [*Quality Engineering.*](https://www.tandfonline.com/doi/full/10.1080/08982112.2025.2552420) [arXiv:2501.14946](https://arxiv.org/pdf/2501.14946)
 
 ### Monotonic warpings for additive and deep Gaussian processes
 with Steven Barnett, Lauren J. Beesley, Robert B. Gramacy, and Dave Osthus. [*Statistics and Computing.*]((https://link.springer.com/article/10.1007/s11222-025-10598-7)) [arXiv:2408.01540](https://arxiv.org/pdf/2408.01540)
@@ -40,7 +46,7 @@ with Ashwin Renganathan and Robert B. Gramacy. [*Annals of Applied Statistics.*]
 ------
 
 ### Voronoi candidates for Bayesian optimization
-with Nathan Wycoff, John W. Smith, and Robert B. Gramacy. [*Journal of Global Optimization, to appear.* arXiv:2402.04922](https://arxiv.org/pdf/2402.04922)
+with Nathan Wycoff, John W. Smith, and Robert B. Gramacy. [*Journal of Global Optimization.*](https://link.springer.com/article/10.1007/s10898-025-01574-6) [arXiv:2402.04922](https://arxiv.org/pdf/2402.04922)
 
 ### Nonstationary Gaussian process surrogates
 with Andrew Cooper and Robert B. Gramacy. *Handbook of Uncertainty Quantification, to appear.* [arXiv:2305.19242](https://arxiv.org/pdf/2305.19242)

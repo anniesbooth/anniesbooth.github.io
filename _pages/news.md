@@ -7,6 +7,10 @@ author_profile: true
 2025
 ------
 
+* I recently attended the [Fall Technical Conference](https://falltechnicalconference.org/) in Houston, TX to present my work on "Deep Gaussian Processes for Failure Probability Estimation in Complex Systems"
+* [Paper](https://arxiv.org/pdf/2402.04922.pdf) on Bayesian optimization with Voronoi candidates accepted to *Journal of Global Optimization*
+* [Paper](https://arxiv.org/pdf/2410.04496) on surrogate design for failure probability estimation accepted to *Journal of Quality Technology*
+* [Paper](https://arxiv.org/pdf/2501.14946) on classification with Bayesian (deep) GPs accepted to *Quality Engineering*
 * [Paper](https://arxiv.org/pdf/2408.01540) on monotonic warpings for deep Gaussian processes accepted to *Statistics and Computing*
 * [Paper](https://arxiv.org/pdf/2308.04420.pdf) on contour location with deep Gaussian processes published in the *Annals of Applied Statistics*
 * Starting in 2025, I am returning to the Virginia Tech Department of Statistics after 1.5 years at NC State.  Go Hokies!

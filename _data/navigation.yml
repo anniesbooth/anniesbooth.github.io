@@ -1,14 +1,14 @@
 
 main:
 
+  - title: "Research"
+    url: /research/
+
   - title: "Publications"
     url: /publications/
 
   - title: "Teaching"
     url: /teaching/
-
-  - title: "Talks"
-    url: /talks/
 
   - title: "Tips and Tricks"
     url: /tips/
