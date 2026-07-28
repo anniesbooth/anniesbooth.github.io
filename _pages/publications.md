@@ -18,13 +18,13 @@ with Ashwin Renganathan. [arXiv:2603.20959](https://arxiv.org/pdf/2603.20959)
 ### Profile Bayesian optimization for expensive computer experiments
 with Courtney Kyger, James Fernandez, John A. Grunenwald, and James Braun. [arxiv:2512.23581](https://arxiv.org/pdf/2512.23581)
 
-### Deep Gaussian processes with gradients
+### Gradient-enhancement and gradient predictions for deep Gaussian process modeling of expensive computer experiments
 [arXiv:2512.19066](https://arxiv.org/pdf/2512.18066)
 
 ### Actively learning joint contours of multiple computer experiments
 with Shih-Ni Prim, Kevin R. Quinlan, Paul Hawkins, and Jagadeesh Movva. [arXiv:2512.13530](https://arxiv.org/pdf/2512.13530)
 
-### Revisiting penalized likelihood estimation for Gaussian processes
+### Revisiting penalized likelihood estimation for deterministic computer experiments
 with Ayumi Mutoh and Jonathan Stallrich. [arXiv:2511.18111](https://arxiv.org/pdf/2511.18111)
 
 ### Bayesian deep Gaussian processes for correlated functional data: A case study in cosmological matter power spectra
